@@ -14,11 +14,24 @@
 
 Vuesion started as an open-source foundation for building production applications with Vue and Nuxt.
 
-Over more than eight years, it evolved alongside real products, teams and projects. The lessons from those projects shaped a new generation of Vuesion: a complete product foundation that brings together architecture, a fully tested design system, authentication, workspaces, tooling, documentation, Figma and AI-assisted development.
+Over more than eight years, it evolved alongside real products, teams and projects. The lessons from those projects shaped a new generation of Vuesion, rebuilt from scratch on Nuxt 4.
 
-**→ [Explore the current Vuesion](https://www.vuesion.dev)**  
-**→ [Read the documentation](https://www.vuesion.dev/docs)**  
-**→ [Why Vuesion is no longer open source](https://www.vuesion.dev/blog/why-vuesion-is-no-longer-open-source)**
+### What's new compared to Vuesion 5
+
+- Workspaces with roles and invitations
+- Plans, entitlements, trials and subscriptions via Lemon Squeezy
+- Platform administration and an incident board for billing issues
+- Billing and trial emails
+- AI agent skills, so coding agents follow the same conventions as your team
+- Code generators for components, pages, forms, field sets, tables and APIs
+- 100% test coverage
+
+Lifetime licenses start at €299.
+
+**→ [Try the live demo](https://www.vuesion.dev/?utm_source=github&utm_medium=readme&utm_campaign=oss&utm_content=demo)**  
+**→ [Explore the current Vuesion](https://www.vuesion.dev/?utm_source=github&utm_medium=readme&utm_campaign=oss&utm_content=explore)**  
+**→ [Read the documentation](https://www.vuesion.dev/docs?utm_source=github&utm_medium=readme&utm_campaign=oss&utm_content=docs)**  
+**→ [Why Vuesion is no longer open source](https://www.vuesion.dev/blog/why-vuesion-is-no-longer-open-source?utm_source=github&utm_medium=readme&utm_campaign=oss&utm_content=why)**
 
 ## About this repository
 
